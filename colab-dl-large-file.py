@@ -22,4 +22,4 @@ def save_file_to_drive(name, path):
 
     return created
     
-## can then save files like so: save_file_to_drive(sourcefilename, destinationfilename)
+## can then save files like so: save_file_to_drive(destination_name, source_name)
